@@ -1,0 +1,12 @@
+name: mosquito-tracking
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pandas
+  - shapely
+  - mamba
+  - jupyter
+prefix: /Users/koeppen/opt/miniconda3/envs/mosquito-tracking
